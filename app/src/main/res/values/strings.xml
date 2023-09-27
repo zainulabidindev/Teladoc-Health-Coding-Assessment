@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teladoc Health Assessment</string>
+    <string name="loading">Loading…</string>
+    <string name="generic_error_message">Error while loading data</string>
+    <string name="search_here">Search artist</string>
+    <string name="input">Input</string>
+</resources>
